@@ -180,7 +180,6 @@ The objective is to develop a Java-based chatbot that interacts with users and r
 
 🎓 B.Tech — Computer Science and Engineering
 
-GitHub: [ritikrajx](https://github.com/ritikrajx)
 
 ## 🚀 Future Improvements
 
@@ -196,5 +195,3 @@ This project was created to strengthen practical Java programming skills and und
 
 ---
 
-**Developed by Ritik Raj**
-*B.Tech — Computer Science and Engineering*
